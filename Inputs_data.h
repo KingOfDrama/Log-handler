@@ -1,18 +1,14 @@
+#include "Data.h"
 
 class Inputs
 {
-private:
-	int size;
-	char *data;
 public:
-	Inputs(int size_data)
-	{
-		size = size_data;
-		data = new char[size];
-	}
-
+	Inputs()
+	{}
+	int inputs_size(Data & log);
+	void inputs_data(Data & log);
 	~Inputs()
 	{
-		delete[] data;
 	}
+private:
 };

@@ -1,7 +1,12 @@
 #include <iostream>
 #include "Inputs_data.h"
 
-void main()
+int main()
 {
-	Inputs p1(10);
+	Inputs file;
+	Data log;
+	log.data_path_in();
+	log.data_size_in(file.inputs_size(log));
+	file.inputs_data(log);
+	return 0;
 }
