@@ -71,6 +71,30 @@
     },
     {
       "key": {
+        "uuid": "a5d4b8d2_e1837da1",
+        "filename": "Data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-08-21T16:21:06Z",
+      "side": 1,
+      "message": "По другому мы путь не знаем к файлу а нужен уже размер файла",
+      "parentUuid": "1b22d78f_e708d60e",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 25
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "04cd701c_83692210",
         "filename": "Data.h",
         "patchSetId": 1
