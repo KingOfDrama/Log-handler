@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "01820e60_e52ac542",
+        "filename": "Inputs_data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T09:22:27Z",
+      "side": 1,
+      "message": "Вначале идтет public т.к. вначале описывают интерфейс.",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 8
+      },
+      "revId": "8a1d727abea89ab99a34ed135097e3ad49357231",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ce5b9b8f_966523ad",
+        "filename": "Inputs_data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T09:22:27Z",
+      "side": 1,
+      "message": "Опять ты блядь вектор изобретаешь?",
+      "range": {
+        "startLine": 6,
+        "startChar": 1,
+        "endLine": 6,
+        "endChar": 12
+      },
+      "revId": "8a1d727abea89ab99a34ed135097e3ad49357231",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ef8d0b6e_d2dd3c87",
+        "filename": "Inputs_data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T09:22:27Z",
+      "side": 1,
+      "message": "За реализацию конструктора в .h файле я тебе глаз вырву)\nКонструктор должен отслеживать иключения всех его членов, что бы корректно разрушится. ПОтому когда ты его объявляешь в .h файле он становится не ибаться жирным т.к. он еще и inline по умолчанию.",
+      "range": {
+        "startLine": 8,
+        "startChar": 1,
+        "endLine": 12,
+        "endChar": 2
+      },
+      "revId": "8a1d727abea89ab99a34ed135097e3ad49357231",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f8f4c519_c4cffe46",
+        "filename": "Inputs_data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T09:22:27Z",
+      "side": 1,
+      "message": "Если действительно надо выделять память, то используй умные указатели.",
+      "range": {
+        "startLine": 16,
+        "startChar": 2,
+        "endLine": 16,
+        "endChar": 16
+      },
+      "revId": "8a1d727abea89ab99a34ed135097e3ad49357231",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
