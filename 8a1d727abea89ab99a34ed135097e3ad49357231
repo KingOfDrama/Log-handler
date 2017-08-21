@@ -94,6 +94,30 @@
     },
     {
       "key": {
+        "uuid": "80103302_8548518c",
+        "filename": "Inputs_data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T11:42:52Z",
+      "side": 1,
+      "message": "Сюда Inputs(int size_data);\n\nВ Cpp реализацию.",
+      "parentUuid": "b3f16049_f5a57f6f",
+      "range": {
+        "startLine": 8,
+        "startChar": 1,
+        "endLine": 12,
+        "endChar": 2
+      },
+      "revId": "8a1d727abea89ab99a34ed135097e3ad49357231",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "f8f4c519_c4cffe46",
         "filename": "Inputs_data.h",
         "patchSetId": 1
