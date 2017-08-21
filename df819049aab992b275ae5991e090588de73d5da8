@@ -191,6 +191,30 @@
     },
     {
       "key": {
+        "uuid": "e441b912_8d17fbf4",
+        "filename": "Data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:45:31Z",
+      "side": 1,
+      "message": "Ты меня лишний раз не беси))\nВот тот код, который вызывает конструктор из main:\nData log;\n\nНапишешь так, будет выделено 42 байта.\nData log( 42 );\n\nНе путай КОНСТРУКТОР и функции.",
+      "parentUuid": "9f0275f9_c9732e08",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 25
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "04cd701c_83692210",
         "filename": "Data.h",
         "patchSetId": 1
