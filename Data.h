@@ -8,11 +8,10 @@ namespace DataLog
 	class Data
 	{
 	public:
-		Data::Data( int size_data ) : data( size_data ) {}
-		void data_push(int);
-	private:
+		Data::Data( int size_data );
+
+		void data_push( char );
 		std::vector<char> data;
 	};
 }
-
 #endif DATA.H
