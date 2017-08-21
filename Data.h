@@ -1,26 +1,21 @@
 #include <vector>
-#include <string>  
+#include <string>
 #include <iostream>
 
-class Data
+#ifndef DATA_H
+#define DATA_H
+
+namespace DataLog
 {
-public:
-
-	Data(int size_data = 0);
-	void data_path_in();
-	void data_size_in(int size);
-	std::string data_path_out();
-	void data_ttt(int symbol)
+	class Data
 	{
-		data.push_back(symbol);
-	}
-	~Data()
-	{}
+	public:
+		Data::Data( int size_data ) : data( size_data ) {}
+		void data_push(int);
+	private:
+		std::vector<char> data;
 
-private:
+	};
+}
 
-	std::vector<char> data;
-	std::string path;
-	
-
-};
+#endif DATA.H
