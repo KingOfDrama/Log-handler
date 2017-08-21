@@ -8,7 +8,7 @@ namespace DataLog
 	class Data
 	{
 	public:
-		Data::Data( int size_data ) : data( size_data ) {}
+		Data::Data( int size_data );
 		void data_push(int);
 	private:
 		std::vector<char> data;

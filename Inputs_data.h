@@ -9,9 +9,8 @@ namespace FileInputs
 	class Inputs
 	{
 	public:
-		int get_file_size( Inst::Settings );
-		void get_file_data( Inst::Settings ,DataLog::Data &);
+		size_t get_size( Inst::Consol_Settings *) const;// функция константна
+		void get_data( Inst::Consol_Settings *, DataLog::Data &);
 	};
 }
-
 #endif INPUTS_DATA_H
