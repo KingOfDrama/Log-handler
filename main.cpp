@@ -1,12 +1,10 @@
-#include <iostream>
 #include "Inputs_data.h"
+#include "DfSettings.h"
 
-int main()
+void main()
 {
-	Inputs file;
-	Data log;
-	log.data_path_in();
-	log.data_size_in(file.inputs_size(log));
-	file.inputs_data(log);
-	return 0;
+	FileInputs::Inputs file;
+	Inst::Settings def;
+	DataLog::Data log(file.get_file_size(def));
+	file.get_file_data( def,log );
 }
