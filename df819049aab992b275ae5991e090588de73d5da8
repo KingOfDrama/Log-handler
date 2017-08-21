@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "04cd701c_83692210",
+        "filename": "Data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-08-21T15:23:11Z",
+      "side": 1,
+      "message": "Проверяй",
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
