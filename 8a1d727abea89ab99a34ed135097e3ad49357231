@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "51ab7076_fd8a137a",
+        "filename": "Inputs_data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-08-21T12:34:16Z",
+      "side": 1,
+      "message": "#include \u003cvector\u003e\n\nclass Data\n{\npublic:\n\n\tData(int size_data)\n\t{\n\t\tdata.reserve(size_data);\n\t}\n\n\t~Data()\n\t{\n\t}\n\nprivate:\n\n\tstd::vector\u003cchar\u003e data;\n\n};\n\nесть смысл создавать data.h такой",
+      "revId": "8a1d727abea89ab99a34ed135097e3ad49357231",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "01820e60_e52ac542",
         "filename": "Inputs_data.h",
         "patchSetId": 1
