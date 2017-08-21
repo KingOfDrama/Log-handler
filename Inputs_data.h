@@ -1,14 +1,16 @@
 #include "Data.h"
+#include "DfSettings.h"
 
-class Inputs
+#ifndef INPUTS_DATA_H
+#define INPUTS_DATA_H
+
+namespace FileInputs
 {
-public:
-	Inputs()
-	{}
-	int inputs_size(Data & log);
-	void inputs_data(Data & log);
-	~Inputs()
+	class Inputs
 	{
-	}
-private:
-};
+	public:
+		int get_size( Inst::Settings & );
+		void get_data( Inst::Settings &, DataLog::Data &);
+	};
+}
+#endif INPUTS_DATA_H
