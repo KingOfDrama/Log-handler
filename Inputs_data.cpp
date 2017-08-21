@@ -1,35 +1,26 @@
 #include "Inputs_data.h"
+#include "DfSettings.h"
 #include <fstream>
-//#include <iostream>
+#include <string>
 
-int Inputs::inputs_size(Data & log)
+size_t FileInputs::Inputs::get_size ( Inst::Consol_Settings *def ) const
 {
 	std::fstream file;
-	file.open(log.data_path_out(), std::ios::in);
-	file.seekg(0, std::ios::end);
-	int size = file.tellg();
-	file.close();
-	return size+100;
+	file.open( def->get_path(), std::ios::in );
+	if (file)
+	{
+		file.seekg(0, std::ios::end);
+		return file.tellg();
+	}
+	return 0;
 }
 
-void Inputs::inputs_data(Data & log)
+void FileInputs::Inputs::get_data( Inst::Consol_Settings *def, DataLog::Data &log )
 {
-	//std::fstream file;
-	char symbol;
-	std::ifstream file(log.data_path_out());
-	while (!file.eof())
+	std::ifstream file(def->get_path() );
+	while ( file.eof() )
 	{
-		symbol = file.get() ;
-		log.data_ttt(symbol);
-	//	cout << n << endl;
+		log.data_push(file.get());
 	}
-	//file.open(log.data_path_out(), std::ios::in);
-/*	int symbol;
-	while (!file.eof())
-	{
-		file >> symbol;
-		log.data_ttt(symbol);
-	}
-	*/
 	file.close();
 }
