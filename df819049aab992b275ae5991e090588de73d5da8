@@ -143,6 +143,30 @@
     },
     {
       "key": {
+        "uuid": "8f81b9af_c07d8e8c",
+        "filename": "Data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:34:43Z",
+      "side": 1,
+      "message": "Да ты хоть тресни, но будет. И не важно что в main.\nData::Data это конструктор. В который ты передаешь число int size_data. Что это за число мне знать не нужно.\nОно используется для резервирования числа байт в data.\ndata.reserve(size_data);\nЭто делается не так. Это делается так:\n\nData::Data(int size_data) : data( size_data )\n{}",
+      "parentUuid": "c742df25_a29ddec2",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 25
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "04cd701c_83692210",
         "filename": "Data.h",
         "patchSetId": 1
