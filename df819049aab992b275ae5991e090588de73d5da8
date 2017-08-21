@@ -2,6 +2,75 @@
   "comments": [
     {
       "key": {
+        "uuid": "aab6a7ae_b04e8ded",
+        "filename": "Data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Убрать пустые строки. Оставить только одну.",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 0
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f7291895_b33ae53c",
+        "filename": "Data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Каждый класс должен принадлежать какому то именнованому пространству.",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 25
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1b22d78f_e708d60e",
+        "filename": "Data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "У вектора этот параметр передается в конструкторе.",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 25
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "04cd701c_83692210",
         "filename": "Data.h",
         "patchSetId": 1
@@ -13,6 +82,345 @@
       "writtenOn": "2017-08-21T15:23:11Z",
       "side": 1,
       "message": "Проверяй",
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "17ecb555_3e12ea5d",
+        "filename": "Data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Где условная компиляция?",
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5443778c_561b391b",
+        "filename": "Data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Убрать пробел.",
+      "range": {
+        "startLine": 2,
+        "startChar": 17,
+        "endLine": 2,
+        "endChar": 19
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a8795d68_6c69e8d7",
+        "filename": "Data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Реализацию в cpp.",
+      "range": {
+        "startLine": 13,
+        "startChar": 1,
+        "endLine": 13,
+        "endChar": 26
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5de9ccba_894a9b8d",
+        "filename": "Data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "По названию функции не очевидно, что она делает. Имя функции должно описывать действие.",
+      "range": {
+        "startLine": 13,
+        "startChar": 6,
+        "endLine": 13,
+        "endChar": 14
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3272ea83_34f6ae91",
+        "filename": "Data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Пробелы поставь между скобками ( symbol ). Везде.",
+      "range": {
+        "startLine": 15,
+        "startChar": 17,
+        "endLine": 15,
+        "endChar": 23
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6b7f3020_85e94f9a",
+        "filename": "Data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Для чего нужен пустой деструктор?",
+      "range": {
+        "startLine": 17,
+        "startChar": 1,
+        "endLine": 18,
+        "endChar": 3
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3296dd07_a5e669e7",
+        "filename": "Data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Убрать табуляцию.",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 1
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f895248d_41444e8d",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Если не нужно - убрать.",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 21
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e49237c2_2ed4b2a8",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "ССылку либо к типу либо к имени. Один пробел лишний.",
+      "range": {
+        "startLine": 5,
+        "startChar": 28,
+        "endLine": 5,
+        "endChar": 30
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "867a41e2_fbe1c4a6",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Операции оделяются пробелами.",
+      "range": {
+        "startLine": 12,
+        "startChar": 12,
+        "endLine": 12,
+        "endChar": 16
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a3aa784b_fca63e01",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Ни каких магических цифр не должно быть.",
+      "range": {
+        "startLine": 12,
+        "startChar": 13,
+        "endLine": 12,
+        "endChar": 16
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5742bbd3_5c94b80a",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Это ты зачем оставил? Можешь это у себя оставлять, а на ревью без этого говна)",
+      "range": {
+        "startLine": 26,
+        "startChar": 0,
+        "endLine": 33,
+        "endChar": 3
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "471dc98c_af9418bf",
+        "filename": "Inputs_data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Опять конструктор в .h",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 3
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a795e86_2523c38e",
+        "filename": "Inputs_data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "В одну строку.",
+      "range": {
+        "startLine": 11,
+        "startChar": 1,
+        "endLine": 12,
+        "endChar": 2
+      },
+      "revId": "df819049aab992b275ae5991e090588de73d5da8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "27991a89_7efc0b05",
+        "filename": "Inputs_data.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-21T16:08:13Z",
+      "side": 1,
+      "message": "Лишнее.",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 8
+      },
       "revId": "df819049aab992b275ae5991e090588de73d5da8",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
