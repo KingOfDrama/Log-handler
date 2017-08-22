@@ -95,6 +95,30 @@
     },
     {
       "key": {
+        "uuid": "bc74062b_e26d8cc9",
+        "filename": "Data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T08:15:55Z",
+      "side": 1,
+      "message": "Ага, а вектор то у тебя какой?\nЕсли ты передаешь в это функцию число 257, какое число запишется в вектор? (запишется единица).",
+      "parentUuid": "5d801749_2c7fddd2",
+      "range": {
+        "startLine": 5,
+        "startChar": 1,
+        "endLine": 5,
+        "endChar": 24
+      },
+      "revId": "67bb9ba579a27530c3f6cf24f1a94a49f8168afd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "4a65ca13_1f4e4969",
         "filename": "Data.h",
         "patchSetId": 1
@@ -222,6 +246,30 @@
       "side": 1,
       "message": "Тут будут все настройки для получение данных. Как расшифровать как получить и остальная херня",
       "parentUuid": "5c1820fd_6fb4dbac",
+      "range": {
+        "startLine": 9,
+        "startChar": 1,
+        "endLine": 9,
+        "endChar": 15
+      },
+      "revId": "67bb9ba579a27530c3f6cf24f1a94a49f8168afd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e2926437_c1201956",
+        "filename": "DfSettings.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T08:15:55Z",
+      "side": 1,
+      "message": "Ну ок.",
+      "parentUuid": "d2f34c04_52d58017",
       "range": {
         "startLine": 9,
         "startChar": 1,
