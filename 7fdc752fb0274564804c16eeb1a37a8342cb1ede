@@ -1,0 +1,487 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "06766162_208b8c8e",
+        "filename": "Data.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Ставь внутри скобок проблеы. Иначе это не читаемо.",
+      "range": {
+        "startLine": 5,
+        "startChar": 15,
+        "endLine": 5,
+        "endChar": 23
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4cb5d50e_75dc0ece",
+        "filename": "Data.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Это тут как оказалось?",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 18
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ed48af09_9e31dcbe",
+        "filename": "Data.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Лишний пробел.",
+      "range": {
+        "startLine": 11,
+        "startChar": 25,
+        "endLine": 11,
+        "endChar": 26
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6fdc00da_eb368ac2",
+        "filename": "Data.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Пробелы.",
+      "range": {
+        "startLine": 11,
+        "startChar": 14,
+        "endLine": 11,
+        "endChar": 23
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ddb91354_f2bd61c5",
+        "filename": "Data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Пробелы.",
+      "range": {
+        "startLine": 11,
+        "startChar": 12,
+        "endLine": 11,
+        "endChar": 27
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9fe08a1e_21b2f293",
+        "filename": "Data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Это тут как оказалось?",
+      "range": {
+        "startLine": 11,
+        "startChar": 29,
+        "endLine": 11,
+        "endChar": 80
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "293211c4_d6410dfe",
+        "filename": "Data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Пробелы.",
+      "range": {
+        "startLine": 12,
+        "startChar": 16,
+        "endLine": 12,
+        "endChar": 22
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a395122_3d67b3f7",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Не переназвал.",
+      "range": {
+        "startLine": 3,
+        "startChar": 21,
+        "endLine": 3,
+        "endChar": 33
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e5dc380a_75870081",
+        "filename": "DfSettings.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Так и не поменял местами.",
+      "range": {
+        "startLine": 12,
+        "startChar": 1,
+        "endLine": 13,
+        "endChar": 22
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dde9c67e_dac020f2",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Можно просто писать !file",
+      "range": {
+        "startLine": 19,
+        "startChar": 8,
+        "endLine": 19,
+        "endChar": 21
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3eb5950e_abb1b95c",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Лишняя переменая",
+      "range": {
+        "startLine": 21,
+        "startChar": 2,
+        "endLine": 21,
+        "endChar": 9
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ce0a778e_2e64bcf3",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Если get не вернет ничего, как ты это проверишь?",
+      "range": {
+        "startLine": 21,
+        "startChar": 11,
+        "endLine": 21,
+        "endChar": 23
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b46198cc_2439d2f9",
+        "filename": "Inputs_data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Лишние пробелы.",
+      "range": {
+        "startLine": 4,
+        "startChar": 21,
+        "endLine": 4,
+        "endChar": 22
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "26afbecc_acfb5eb2",
+        "filename": "Inputs_data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "табуляция лишняя.",
+      "range": {
+        "startLine": 12,
+        "startChar": 10,
+        "endLine": 12,
+        "endChar": 11
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "97e752ee_b84012a7",
+        "filename": "Inputs_data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Реализацию в cpp",
+      "range": {
+        "startLine": 12,
+        "startChar": 2,
+        "endLine": 12,
+        "endChar": 13
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9d8f60a8_39b78bd9",
+        "filename": "Inputs_data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Переназвать в соответсвии с дейсвием, которое они делают.",
+      "range": {
+        "startLine": 13,
+        "startChar": 5,
+        "endLine": 13,
+        "endChar": 17
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f6120df_862930d0",
+        "filename": "Inputs_data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Если ты не меняешь объект, то константную ссылку.",
+      "range": {
+        "startLine": 13,
+        "startChar": 19,
+        "endLine": 13,
+        "endChar": 36
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f10b3c2_23b040aa",
+        "filename": "Inputs_data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Тут не хватает проблеа.",
+      "range": {
+        "startLine": 14,
+        "startChar": 38,
+        "endLine": 14,
+        "endChar": 39
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b122456e_b1abd39c",
+        "filename": "Inputs_data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "const?",
+      "range": {
+        "startLine": 14,
+        "startChar": 19,
+        "endLine": 14,
+        "endChar": 34
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c50b514f_a5b7d9eb",
+        "filename": "Inputs_data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Лишние пробелы",
+      "range": {
+        "startLine": 14,
+        "startChar": 34,
+        "endLine": 14,
+        "endChar": 37
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "76d69b28_383405c6",
+        "filename": "Inputs_data.h",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-22T12:54:07Z",
+      "side": 1,
+      "message": "Пробел лишний",
+      "range": {
+        "startLine": 18,
+        "startChar": 20,
+        "endLine": 18,
+        "endChar": 21
+      },
+      "revId": "7fdc752fb0274564804c16eeb1a37a8342cb1ede",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
