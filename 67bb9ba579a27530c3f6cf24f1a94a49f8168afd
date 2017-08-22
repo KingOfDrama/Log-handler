@@ -71,6 +71,30 @@
     },
     {
       "key": {
+        "uuid": "5d801749_2c7fddd2",
+        "filename": "Data.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-08-22T08:06:01Z",
+      "side": 1,
+      "message": "я записываю туда номер символа. так как char не все номера символов может записать. Я это где то читал",
+      "parentUuid": "4f812661_cb1e15dc",
+      "range": {
+        "startLine": 5,
+        "startChar": 1,
+        "endLine": 5,
+        "endChar": 24
+      },
+      "revId": "67bb9ba579a27530c3f6cf24f1a94a49f8168afd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "4a65ca13_1f4e4969",
         "filename": "Data.h",
         "patchSetId": 1
@@ -174,6 +198,30 @@
       "writtenOn": "2017-08-22T07:27:45Z",
       "side": 1,
       "message": "Если это класс нужен только для получения имени файла, то его имя не соответвует тому, что он делает.\nFileNameGetter например.",
+      "range": {
+        "startLine": 9,
+        "startChar": 1,
+        "endLine": 9,
+        "endChar": 15
+      },
+      "revId": "67bb9ba579a27530c3f6cf24f1a94a49f8168afd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d2f34c04_52d58017",
+        "filename": "DfSettings.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-08-22T08:06:01Z",
+      "side": 1,
+      "message": "Тут будут все настройки для получение данных. Как расшифровать как получить и остальная херня",
+      "parentUuid": "5c1820fd_6fb4dbac",
       "range": {
         "startLine": 9,
         "startChar": 1,
