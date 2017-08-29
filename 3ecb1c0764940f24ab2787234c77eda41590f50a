@@ -1,0 +1,142 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7b993024_8ac77929",
+        "filename": "Data.h",
+        "patchSetId": 5
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T15:07:14Z",
+      "side": 1,
+      "message": "explicit",
+      "range": {
+        "startLine": 11,
+        "startChar": 2,
+        "endLine": 11,
+        "endChar": 30
+      },
+      "revId": "3ecb1c0764940f24ab2787234c77eda41590f50a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7ddcc1c8_fb6343bb",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T15:07:14Z",
+      "side": 1,
+      "message": "const метод",
+      "range": {
+        "startLine": 3,
+        "startChar": 12,
+        "endLine": 3,
+        "endChar": 38
+      },
+      "revId": "3ecb1c0764940f24ab2787234c77eda41590f50a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e50ad86b_a36090c6",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T15:07:14Z",
+      "side": 1,
+      "message": "Я как пользователь, откуда мне знать, что нужно вызвать put_path(), что бы path был валидный?\n\nЯ пользователь - тупое животное. Я создам объект и буду из него получать настройки. Вот так вот:\nstd::string path \u003d Settings().get_path();\nИнтерфейс это позволяет? Значит я буду так делать.",
+      "range": {
+        "startLine": 8,
+        "startChar": 21,
+        "endLine": 8,
+        "endChar": 31
+      },
+      "revId": "3ecb1c0764940f24ab2787234c77eda41590f50a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df20d1bc_d72f95a9",
+        "filename": "DfSettings.h",
+        "patchSetId": 5
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T15:07:14Z",
+      "side": 1,
+      "message": "лишний пробел.",
+      "range": {
+        "startLine": 12,
+        "startChar": 25,
+        "endLine": 12,
+        "endChar": 26
+      },
+      "revId": "3ecb1c0764940f24ab2787234c77eda41590f50a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4b54f053_9bda06a2",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T15:07:14Z",
+      "side": 1,
+      "message": "Вот уж хер. Верни const. \nЧто бы работало метод get_path() должен быть константным.",
+      "range": {
+        "startLine": 16,
+        "startChar": 48,
+        "endLine": 16,
+        "endChar": 51
+      },
+      "revId": "3ecb1c0764940f24ab2787234c77eda41590f50a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "82aaceff_2e87c530",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T15:07:14Z",
+      "side": 1,
+      "message": "Где мои скобки?",
+      "range": {
+        "startLine": 23,
+        "startChar": 16,
+        "endLine": 23,
+        "endChar": 23
+      },
+      "revId": "3ecb1c0764940f24ab2787234c77eda41590f50a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
