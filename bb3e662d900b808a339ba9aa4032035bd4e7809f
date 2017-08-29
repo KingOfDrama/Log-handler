@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "0dc68aa2_d1e17f94",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T15:07:14Z",
+      "side": 1,
+      "message": "Чет ничего не поменялось.",
+      "parentUuid": "3e13bf79_ada0952d",
+      "range": {
+        "startLine": 3,
+        "startChar": 21,
+        "endLine": 3,
+        "endChar": 29
+      },
+      "revId": "bb3e662d900b808a339ba9aa4032035bd4e7809f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "067f8451_b55123ef",
         "filename": "Inputs_data.cpp",
         "patchSetId": 4
