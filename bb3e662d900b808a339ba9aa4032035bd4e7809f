@@ -1,0 +1,211 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "567848e6_af6282d6",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T11:15:36Z",
+      "side": 1,
+      "message": "Почему функция get не возвращает полученное значение?\n\nПо сути я должен создать объект, вызвать get_path, потом обратиться к полю объекта?\n\nМожно мне другую логику, без всякой такой хрени.\n\nХочу вызывать функцию get_path и получать в ответе путь. Если нужно его получать их консоли один раз, то сделай метод init.\n\nМетоды get по сути свой должны быть const.",
+      "range": {
+        "startLine": 3,
+        "startChar": 21,
+        "endLine": 3,
+        "endChar": 29
+      },
+      "revId": "bb3e662d900b808a339ba9aa4032035bd4e7809f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "067f8451_b55123ef",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T11:15:36Z",
+      "side": 1,
+      "message": "Где то лишний пробел.",
+      "range": {
+        "startLine": 6,
+        "startChar": 48,
+        "endLine": 6,
+        "endChar": 51
+      },
+      "revId": "bb3e662d900b808a339ba9aa4032035bd4e7809f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f924e6f2_1aa5a4bc",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T11:15:36Z",
+      "side": 1,
+      "message": "Пробела нет.",
+      "range": {
+        "startLine": 16,
+        "startChar": 79,
+        "endLine": 16,
+        "endChar": 81
+      },
+      "revId": "bb3e662d900b808a339ba9aa4032035bd4e7809f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f42f0d12_bbebd0d6",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T11:15:36Z",
+      "side": 1,
+      "message": "Пробел.",
+      "range": {
+        "startLine": 19,
+        "startChar": 19,
+        "endLine": 19,
+        "endChar": 21
+      },
+      "revId": "bb3e662d900b808a339ba9aa4032035bd4e7809f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7055369b_e0eee0ba",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T11:15:36Z",
+      "side": 1,
+      "message": "Давай все таки не по символу.",
+      "range": {
+        "startLine": 22,
+        "startChar": 2,
+        "endLine": 22,
+        "endChar": 22
+      },
+      "revId": "bb3e662d900b808a339ba9aa4032035bd4e7809f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a867b5ef_9db55eb4",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T11:15:36Z",
+      "side": 1,
+      "message": "А если он не считал символ?",
+      "range": {
+        "startLine": 22,
+        "startChar": 2,
+        "endLine": 22,
+        "endChar": 10
+      },
+      "revId": "bb3e662d900b808a339ba9aa4032035bd4e7809f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "584b6155_44295265",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T11:15:36Z",
+      "side": 1,
+      "message": "Пробелы.",
+      "range": {
+        "startLine": 23,
+        "startChar": 16,
+        "endLine": 23,
+        "endChar": 22
+      },
+      "revId": "bb3e662d900b808a339ba9aa4032035bd4e7809f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f848f5d7_66d35326",
+        "filename": "Inputs_data.h",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T11:15:36Z",
+      "side": 1,
+      "message": "Метод константный?",
+      "range": {
+        "startLine": 12,
+        "startChar": 2,
+        "endLine": 12,
+        "endChar": 35
+      },
+      "revId": "bb3e662d900b808a339ba9aa4032035bd4e7809f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa834979_d04780e5",
+        "filename": "main.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-08-29T11:15:36Z",
+      "side": 1,
+      "message": "Пробелы.",
+      "range": {
+        "startLine": 9,
+        "startChar": 20,
+        "endLine": 9,
+        "endChar": 38
+      },
+      "revId": "bb3e662d900b808a339ba9aa4032035bd4e7809f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
