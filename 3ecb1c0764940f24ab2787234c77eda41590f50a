@@ -94,6 +94,30 @@
     },
     {
       "key": {
+        "uuid": "925d3134_38f60017",
+        "filename": "DfSettings.h",
+        "patchSetId": 5
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-20T17:10:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "df20d1bc_d72f95a9",
+      "range": {
+        "startLine": 12,
+        "startChar": 25,
+        "endLine": 12,
+        "endChar": 26
+      },
+      "revId": "3ecb1c0764940f24ab2787234c77eda41590f50a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "4b54f053_9bda06a2",
         "filename": "Inputs_data.cpp",
         "patchSetId": 5
@@ -128,6 +152,30 @@
       "writtenOn": "2017-08-29T15:07:14Z",
       "side": 1,
       "message": "Где мои скобки?",
+      "range": {
+        "startLine": 23,
+        "startChar": 16,
+        "endLine": 23,
+        "endChar": 23
+      },
+      "revId": "3ecb1c0764940f24ab2787234c77eda41590f50a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6a2fedad_94c24f15",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-20T17:10:01Z",
+      "side": 1,
+      "message": "Скобки?",
+      "parentUuid": "82aaceff_2e87c530",
       "range": {
         "startLine": 23,
         "startChar": 16,
