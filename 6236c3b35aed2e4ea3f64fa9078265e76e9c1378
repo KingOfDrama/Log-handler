@@ -1,0 +1,245 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a1f28ed_123c28c4",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 6
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-20T10:29:54Z",
+      "side": 1,
+      "message": "Функция get_path() \u003d 0; по умолчанию не может иметь реализации.\nА точнее не должна (но может, но это не твой случай).",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 1
+      },
+      "revId": "6236c3b35aed2e4ea3f64fa9078265e76e9c1378",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a144568d_a729e3dd",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 6
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-20T10:29:54Z",
+      "side": 1,
+      "message": "Смарт пойтер использовать.",
+      "range": {
+        "startLine": 20,
+        "startChar": 2,
+        "endLine": 20,
+        "endChar": 39
+      },
+      "revId": "6236c3b35aed2e4ea3f64fa9078265e76e9c1378",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "408e32a6_5a0616e1",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 6
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-20T10:29:54Z",
+      "side": 1,
+      "message": "В конструктор.",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 33,
+        "endChar": 18
+      },
+      "revId": "6236c3b35aed2e4ea3f64fa9078265e76e9c1378",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f275815b_d62866f1",
+        "filename": "DfSettings.h",
+        "patchSetId": 6
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-20T10:29:54Z",
+      "side": 1,
+      "message": "Табуляция лишняя.",
+      "range": {
+        "startLine": 15,
+        "startChar": 25,
+        "endLine": 15,
+        "endChar": 28
+      },
+      "revId": "6236c3b35aed2e4ea3f64fa9078265e76e9c1378",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cd65d19a_ce738995",
+        "filename": "DfSettings.h",
+        "patchSetId": 6
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-20T10:29:54Z",
+      "side": 1,
+      "message": "Слово override.",
+      "revId": "6236c3b35aed2e4ea3f64fa9078265e76e9c1378",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "35498b2a_e82e6495",
+        "filename": "DfSettings.h",
+        "patchSetId": 6
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-20T10:29:54Z",
+      "side": 1,
+      "message": "Почему эта функция открытая?",
+      "range": {
+        "startLine": 22,
+        "startChar": 2,
+        "endLine": 22,
+        "endChar": 18
+      },
+      "revId": "6236c3b35aed2e4ea3f64fa9078265e76e9c1378",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c662728f_c575ff96",
+        "filename": "DfSettings.h",
+        "patchSetId": 6
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-20T10:29:54Z",
+      "side": 1,
+      "message": "Местами поменять.\nВначале интерфейс, потом поля.",
+      "range": {
+        "startLine": 25,
+        "startChar": 2,
+        "endLine": 26,
+        "endChar": 23
+      },
+      "revId": "6236c3b35aed2e4ea3f64fa9078265e76e9c1378",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "82b60ea8_b543c1d8",
+        "filename": "DfSettings.h",
+        "patchSetId": 6
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-20T10:29:54Z",
+      "side": 1,
+      "message": "Пустую строку перед private: залипи.",
+      "revId": "6236c3b35aed2e4ea3f64fa9078265e76e9c1378",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "de674e39_1394474a",
+        "filename": "DfSettings.h",
+        "patchSetId": 6
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-20T10:29:54Z",
+      "side": 1,
+      "message": "Это че за хуйня?",
+      "range": {
+        "startLine": 40,
+        "startChar": 2,
+        "endLine": 40,
+        "endChar": 9
+      },
+      "revId": "6236c3b35aed2e4ea3f64fa9078265e76e9c1378",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3cea748f_24313210",
+        "filename": "DfSettings.h",
+        "patchSetId": 6
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-20T10:29:54Z",
+      "side": 1,
+      "message": "Это private и не static.",
+      "range": {
+        "startLine": 41,
+        "startChar": 2,
+        "endLine": 41,
+        "endChar": 37
+      },
+      "revId": "6236c3b35aed2e4ea3f64fa9078265e76e9c1378",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "07b826dd_5f2a2115",
+        "filename": "DfSettings.h",
+        "patchSetId": 6
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-20T10:29:54Z",
+      "side": 1,
+      "message": "Это спрятать в функцию Instans()",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 43,
+        "endChar": 36
+      },
+      "revId": "6236c3b35aed2e4ea3f64fa9078265e76e9c1378",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
