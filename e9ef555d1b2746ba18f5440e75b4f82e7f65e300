@@ -48,6 +48,30 @@
     },
     {
       "key": {
+        "uuid": "a522fa68_5f50a4cc",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3f8e5423_703ee6e6",
+      "range": {
+        "startLine": 5,
+        "startChar": 1,
+        "endLine": 5,
+        "endChar": 2
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "77aa7eac_87161803",
         "filename": "DfSettings.cpp",
         "patchSetId": 8
@@ -94,6 +118,30 @@
     },
     {
       "key": {
+        "uuid": "d50c56c2_c998f98b",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "77aa7eac_87161803",
+      "range": {
+        "startLine": 19,
+        "startChar": 40,
+        "endLine": 19,
+        "endChar": 41
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "a2004e89_a124c672",
         "filename": "DfSettings.cpp",
         "patchSetId": 8
@@ -105,6 +153,30 @@
       "writtenOn": "2017-09-21T09:23:38Z",
       "side": 1,
       "message": "Пробелы",
+      "range": {
+        "startLine": 21,
+        "startChar": 8,
+        "endLine": 21,
+        "endChar": 14
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c867b5c6_9b01db99",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a2004e89_a124c672",
       "range": {
         "startLine": 21,
         "startChar": 8,
@@ -140,6 +212,30 @@
     },
     {
       "key": {
+        "uuid": "bf4f80b4_68ce75fa",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "751da20c_e27cadea",
+      "range": {
+        "startLine": 23,
+        "startChar": 12,
+        "endLine": 23,
+        "endChar": 13
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7f1a1714_35078404",
         "filename": "DfSettings.cpp",
         "patchSetId": 8
@@ -163,6 +259,30 @@
     },
     {
       "key": {
+        "uuid": "5be8ad72_bb671d07",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7f1a1714_35078404",
+      "range": {
+        "startLine": 24,
+        "startChar": 41,
+        "endLine": 24,
+        "endChar": 64
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "8f0cf818_844b3068",
         "filename": "DfSettings.cpp",
         "patchSetId": 8
@@ -174,6 +294,30 @@
       "writtenOn": "2017-09-21T09:23:38Z",
       "side": 1,
       "message": "Пробелы в скобочках",
+      "range": {
+        "startLine": 27,
+        "startChar": 41,
+        "endLine": 27,
+        "endChar": 62
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "94ac2aea_f24b3f85",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8f0cf818_844b3068",
       "range": {
         "startLine": 27,
         "startChar": 41,
@@ -233,6 +377,30 @@
     },
     {
       "key": {
+        "uuid": "2c8ce0ec_a7bffda4",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dc5ce1c6_e365a430",
+      "range": {
+        "startLine": 30,
+        "startChar": 2,
+        "endLine": 30,
+        "endChar": 8
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "a56711d8_60941b01",
         "filename": "DfSettings.h",
         "patchSetId": 8
@@ -244,6 +412,30 @@
       "writtenOn": "2017-09-21T09:23:38Z",
       "side": 1,
       "message": "сделать const",
+      "range": {
+        "startLine": 15,
+        "startChar": 22,
+        "endLine": 15,
+        "endChar": 32
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "aa9ebd9a_0b94916b",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a56711d8_60941b01",
       "range": {
         "startLine": 15,
         "startChar": 22,
@@ -279,6 +471,30 @@
     },
     {
       "key": {
+        "uuid": "a36e89f8_6f927256",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e147b4cf_a3cb4190",
+      "range": {
+        "startLine": 16,
+        "startChar": 2,
+        "endLine": 16,
+        "endChar": 26
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "f19495fb_ea0fc3bc",
         "filename": "DfSettings.h",
         "patchSetId": 8
@@ -290,6 +506,30 @@
       "writtenOn": "2017-09-21T09:23:38Z",
       "side": 1,
       "message": "Пустую строку перед private:",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 63
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "844bd2e9_56a3476a",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f19495fb_ea0fc3bc",
       "range": {
         "startLine": 23,
         "startChar": 0,
@@ -336,6 +576,54 @@
       "writtenOn": "2017-09-21T09:23:38Z",
       "side": 1,
       "message": "Если запретил конструктор, то обязан запретить копирование.\nConsol_Settings( Consol_Settings const\u0026 ) \u003d delete;\nConsol_Settings\u0026 operator\u003d( Consol_Settings const\u0026 ) \u003d delete;",
+      "range": {
+        "startLine": 25,
+        "startChar": 2,
+        "endLine": 25,
+        "endChar": 20
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6c26c03b_dd3bc6a2",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "962c3efa_b6e9e402",
+      "range": {
+        "startLine": 25,
+        "startChar": 2,
+        "endLine": 25,
+        "endChar": 20
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ca49e071_8078d395",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "08c03ea3_72014944",
       "range": {
         "startLine": 25,
         "startChar": 2,
@@ -440,6 +728,30 @@
     },
     {
       "key": {
+        "uuid": "a14e3ba4_0e41d885",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "51af69e0_de09a328",
+      "range": {
+        "startLine": 34,
+        "startChar": 14,
+        "endLine": 34,
+        "endChar": 20
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "d98b9022_4e3024ee",
         "filename": "DfSettings.h",
         "patchSetId": 8
@@ -451,6 +763,30 @@
       "writtenOn": "2017-09-21T09:23:38Z",
       "side": 1,
       "message": "Лишняя табуляция.",
+      "range": {
+        "startLine": 36,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 1
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df66234f_5b7de007",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d98b9022_4e3024ee",
       "range": {
         "startLine": 36,
         "startChar": 0,
@@ -486,6 +822,30 @@
     },
     {
       "key": {
+        "uuid": "c5503c6c_8b973048",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cc787936_c6bf62b0",
+      "range": {
+        "startLine": 42,
+        "startChar": 13,
+        "endLine": 42,
+        "endChar": 20
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1e87a2f0_f06b7a98",
         "filename": "DfSettings.h",
         "patchSetId": 8
@@ -509,6 +869,30 @@
     },
     {
       "key": {
+        "uuid": "d19d74fc_8dc76e78",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1e87a2f0_f06b7a98",
+      "range": {
+        "startLine": 43,
+        "startChar": 2,
+        "endLine": 43,
+        "endChar": 4
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "281037f8_ce7524a7",
         "filename": "DfSettings.h",
         "patchSetId": 8
@@ -520,6 +904,30 @@
       "writtenOn": "2017-09-21T09:23:38Z",
       "side": 1,
       "message": "Пустую строку перед private",
+      "range": {
+        "startLine": 48,
+        "startChar": 1,
+        "endLine": 48,
+        "endChar": 4
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1daf8887_c7059d31",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "281037f8_ce7524a7",
       "range": {
         "startLine": 48,
         "startChar": 1,
@@ -578,6 +986,30 @@
     },
     {
       "key": {
+        "uuid": "7b691dc3_559b3869",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "95563aea_534b1e96",
+      "range": {
+        "startLine": 10,
+        "startChar": 4,
+        "endLine": 10,
+        "endChar": 10
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "427935f2_27427f67",
         "filename": "Inputs_data.cpp",
         "patchSetId": 8
@@ -601,6 +1033,30 @@
     },
     {
       "key": {
+        "uuid": "a4d87363_fb30898b",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "427935f2_27427f67",
+      "range": {
+        "startLine": 12,
+        "startChar": 12,
+        "endLine": 12,
+        "endChar": 30
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9d16b0af_e639f257",
         "filename": "Inputs_data.cpp",
         "patchSetId": 8
@@ -612,6 +1068,30 @@
       "writtenOn": "2017-09-21T09:23:38Z",
       "side": 1,
       "message": "Пробел",
+      "range": {
+        "startLine": 20,
+        "startChar": 19,
+        "endLine": 20,
+        "endChar": 21
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7158f7c9_1390c5f5",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-09-21T17:14:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9d16b0af_e639f257",
       "range": {
         "startLine": 20,
         "startChar": 19,
