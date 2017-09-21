@@ -209,6 +209,30 @@
     },
     {
       "key": {
+        "uuid": "dc5ce1c6_e365a430",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:29:22Z",
+      "side": 1,
+      "message": "Хотя оставь. Не все копиляторы разрешают без default и без break.",
+      "parentUuid": "396514a9_335f3199",
+      "range": {
+        "startLine": 30,
+        "startChar": 2,
+        "endLine": 30,
+        "endChar": 8
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "a56711d8_60941b01",
         "filename": "DfSettings.h",
         "patchSetId": 8
