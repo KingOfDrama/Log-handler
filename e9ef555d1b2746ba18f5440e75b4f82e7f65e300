@@ -1,0 +1,602 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f141ff73_c29e6515",
+        "filename": "Data.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пустую строку между функциями и полями.",
+      "range": {
+        "startLine": 11,
+        "startChar": 1,
+        "endLine": 12,
+        "endChar": 25
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f8e5423_703ee6e6",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Табуляция лишняя",
+      "range": {
+        "startLine": 5,
+        "startChar": 1,
+        "endLine": 5,
+        "endChar": 2
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "77aa7eac_87161803",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Убрать пробел",
+      "range": {
+        "startLine": 19,
+        "startChar": 40,
+        "endLine": 19,
+        "endChar": 41
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e15b30e6_4eb96ac8",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пробелы",
+      "range": {
+        "startLine": 19,
+        "startChar": 22,
+        "endLine": 19,
+        "endChar": 40
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a2004e89_a124c672",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пробелы",
+      "range": {
+        "startLine": 21,
+        "startChar": 8,
+        "endLine": 21,
+        "endChar": 14
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "751da20c_e27cadea",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Убрать пробел",
+      "range": {
+        "startLine": 23,
+        "startChar": 12,
+        "endLine": 23,
+        "endChar": 13
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f1a1714_35078404",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пробелы в скобочках",
+      "range": {
+        "startLine": 24,
+        "startChar": 41,
+        "endLine": 24,
+        "endChar": 64
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8f0cf818_844b3068",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пробелы в скобочках",
+      "range": {
+        "startLine": 27,
+        "startChar": 41,
+        "endLine": 27,
+        "endChar": 62
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "396514a9_335f3199",
+        "filename": "DfSettings.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Лишний break",
+      "range": {
+        "startLine": 30,
+        "startChar": 2,
+        "endLine": 30,
+        "endChar": 8
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a56711d8_60941b01",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "сделать const",
+      "range": {
+        "startLine": 15,
+        "startChar": 22,
+        "endLine": 15,
+        "endChar": 32
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e147b4cf_a3cb4190",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Первыми в описаниях принято делать контрукторы, потом дейстукторы, потом все остальные функции.\n\nПоменяй местами 15 и 16 строки.",
+      "range": {
+        "startLine": 16,
+        "startChar": 2,
+        "endLine": 16,
+        "endChar": 26
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f19495fb_ea0fc3bc",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пустую строку перед private:",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 63
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "962c3efa_b6e9e402",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пустую строку между методами и полями.",
+      "range": {
+        "startLine": 25,
+        "startChar": 2,
+        "endLine": 25,
+        "endChar": 20
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "08c03ea3_72014944",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Если запретил конструктор, то обязан запретить копирование.\nConsol_Settings( Consol_Settings const\u0026 ) \u003d delete;\nConsol_Settings\u0026 operator\u003d( Consol_Settings const\u0026 ) \u003d delete;",
+      "range": {
+        "startLine": 25,
+        "startChar": 2,
+        "endLine": 25,
+        "endChar": 20
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4f850da2_c3b2a299",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Лишний пробел.",
+      "range": {
+        "startLine": 26,
+        "startChar": 19,
+        "endLine": 26,
+        "endChar": 20
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6e9e65cb_1fd5e7e0",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пустую строку перед private",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 34
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a82b9c12_2ab1b6b8",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "А где запрет на конструирование?",
+      "range": {
+        "startLine": 33,
+        "startChar": 1,
+        "endLine": 33,
+        "endChar": 9
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "51af69e0_de09a328",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "const",
+      "range": {
+        "startLine": 34,
+        "startChar": 14,
+        "endLine": 34,
+        "endChar": 20
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d98b9022_4e3024ee",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Лишняя табуляция.",
+      "range": {
+        "startLine": 36,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 1
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cc787936_c6bf62b0",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "На новую строку",
+      "range": {
+        "startLine": 42,
+        "startChar": 13,
+        "endLine": 42,
+        "endChar": 20
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1e87a2f0_f06b7a98",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пустусю строку перед методами.",
+      "range": {
+        "startLine": 43,
+        "startChar": 2,
+        "endLine": 43,
+        "endChar": 4
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "281037f8_ce7524a7",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пустую строку перед private",
+      "range": {
+        "startLine": 48,
+        "startChar": 1,
+        "endLine": 48,
+        "endChar": 4
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3d8e2dc1_89747034",
+        "filename": "DfSettings.h",
+        "patchSetId": 8
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "C чего бы эт ос большой буквы?",
+      "range": {
+        "startLine": 50,
+        "startChar": 31,
+        "endLine": 50,
+        "endChar": 32
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "95563aea_534b1e96",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пробелы",
+      "range": {
+        "startLine": 10,
+        "startChar": 4,
+        "endLine": 10,
+        "endChar": 10
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "427935f2_27427f67",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пробелы",
+      "range": {
+        "startLine": 12,
+        "startChar": 12,
+        "endLine": 12,
+        "endChar": 30
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9d16b0af_e639f257",
+        "filename": "Inputs_data.cpp",
+        "patchSetId": 8
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T09:23:38Z",
+      "side": 1,
+      "message": "Пробел",
+      "range": {
+        "startLine": 20,
+        "startChar": 19,
+        "endLine": 20,
+        "endChar": 21
+      },
+      "revId": "e9ef555d1b2746ba18f5440e75b4f82e7f65e300",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
