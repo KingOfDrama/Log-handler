@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "106fc603_9a916d9a",
+        "filename": "Data.h",
+        "patchSetId": 9
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T17:22:19Z",
+      "side": 1,
+      "message": "Где моя пустая строка?",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 25
+      },
+      "revId": "37fc53c9b6e8c2cfafead7b04898e8a9f21faa31",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9e1ad3d8_5d94a3c3",
+        "filename": "DfSettings.h",
+        "patchSetId": 9
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T17:22:19Z",
+      "side": 1,
+      "message": "Бесишь меня своими пробелами.",
+      "range": {
+        "startLine": 28,
+        "startChar": 77,
+        "endLine": 28,
+        "endChar": 78
+      },
+      "revId": "37fc53c9b6e8c2cfafead7b04898e8a9f21faa31",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5deb9c12_617ffbd5",
+        "filename": "DfSettings.h",
+        "patchSetId": 9
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-09-21T17:22:19Z",
+      "side": 1,
+      "message": "Бесишь меня своими пробелами.",
+      "range": {
+        "startLine": 30,
+        "startChar": 19,
+        "endLine": 30,
+        "endChar": 20
+      },
+      "revId": "37fc53c9b6e8c2cfafead7b04898e8a9f21faa31",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
