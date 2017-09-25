@@ -9,7 +9,7 @@ namespace DataLog
 	{
 	public:
 		Data::Data( int size_data );
-
+		//test
 		void data_push( char );
 		std::vector<char> data;
 	};
